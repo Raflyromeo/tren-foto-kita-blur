@@ -22,3 +22,6 @@ pip install opencv-python mediapipe pygame
    ```
 3. Arahkan dua jari (jari telunjuk dan jari tengah membentuk peace sign) ke arah webcam untuk memicu efek blur dan audio.
 4. Tekan tombol `Q` atau `ESC` untuk menutup program.
+
+## Lisensi
+Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
